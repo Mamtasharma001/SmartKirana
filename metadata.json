@@ -1,0 +1,6 @@
+{
+  "name": "SmartKirana",
+  "description": "A modern, professional inventory and billing management application designed for small kirana (grocery) store owners.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
