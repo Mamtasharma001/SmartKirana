@@ -293,7 +293,7 @@ npm run clean      # Remove build files
 
 B.Tech Computer Science Engineering
 
-Manav Rachna University
+NGF College of Engineering and Technology
 
 SmartKirana was developed as a production-inspired SaaS project demonstrating modern frontend development, scalable application architecture, AI integration, and user-centered design for India's retail ecosystem.
 
