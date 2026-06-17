@@ -4,12 +4,6 @@
 
 Inventory Management • Billing • Customer Credit • Business Analytics • AI Insights
 
-
-
-
-
-\
-
 A production-inspired SaaS application that digitizes the daily operations of Indian kirana stores through a modern mobile-first interface. SmartKirana combines inventory management, billing, customer credit tracking, supplier management, employee management, analytics, and AI-powered business insights into a single platform.
 
 ---
